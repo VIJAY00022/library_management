@@ -15,8 +15,3 @@ A simple **console-based Library Management System** built using **Java**.
 - OOP Concepts
 - ArrayList
 - Scanner
-
-## ▶ How to Run
-1. Clone the repository
-```bash
-git clone https://github.com/your-username/LibraryManagementSystem.git
