@@ -1,2 +1,22 @@
-# library_management
-It appears you're looking for a short description of a library. However, you haven't specified which library you're referring to. Libraries can vary greatly in terms of their focus and offerings. If you provide more information about the specific library you have in mind, I'd be happy to help you create a concise description for it.
+# 📚 Library Management System (Java)
+
+A simple **console-based Library Management System** built using **Java**.
+
+## 🚀 Features
+- Add Books
+- View All Books
+- Add Members
+- Issue Books
+- Return Books
+- Menu Driven Program
+
+## 🛠 Technologies Used
+- Java
+- OOP Concepts
+- ArrayList
+- Scanner
+
+## ▶ How to Run
+1. Clone the repository
+```bash
+git clone https://github.com/your-username/LibraryManagementSystem.git
